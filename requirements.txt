@@ -1,0 +1,5 @@
+opencv-python-headless==4.13.0.92 
+torchvision 
+torch==2.1.0+cpu 
+matplotlib==3.10.8
+numpy==2.2.6 
