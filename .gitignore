@@ -14,14 +14,7 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.bmp
-*.tiff
-*.svg
-*.ico
+
 
 .cache/
 detections.json
